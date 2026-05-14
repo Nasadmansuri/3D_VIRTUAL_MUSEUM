@@ -2120,11 +2120,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  - component: {fileID: 963194228}
+  - component: {fileID: 963194227}
+  - component: {fileID: 963194226}
+=======
+>>>>>>> df851e4fe3d6fde8f448c6542321a4e26bd56ef3
   - component: {fileID: 760217217}
   - component: {fileID: 760217220}
   - component: {fileID: 760217219}
   - component: {fileID: 760217218}
   - component: {fileID: 760217221}
+<<<<<<< HEAD
+=======
+>>>>>>> bd8344f134b3e403ea1ed37a98cc2fa79cebf6e2
+>>>>>>> df851e4fe3d6fde8f448c6542321a4e26bd56ef3
   m_Layer: 0
   m_Name: Neptune
   m_TagString: Untagged
@@ -2145,6 +2157,13 @@ Transform:
   m_LocalScale: {x: 0.014285714, y: 0.014285714, z: 0.014285714}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -166.619, z: 0}
+=======
+>>>>>>> df851e4fe3d6fde8f448c6542321a4e26bd56ef3
   m_Father: {fileID: 1702642419}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &760217218
@@ -3650,6 +3669,10 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7855692788476613963, guid: 450919fe6616a224bb9c8eb3f267423a, type: 3}
   m_PrefabInstance: {fileID: 670047861}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+>>>>>>> bd8344f134b3e403ea1ed37a98cc2fa79cebf6e2
+>>>>>>> df851e4fe3d6fde8f448c6542321a4e26bd56ef3
 --- !u!1001 &1554786116
 PrefabInstance:
   m_ObjectHideFlags: 0
